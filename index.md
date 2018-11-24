@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Isotropos
 
-You can use the [editor on GitHub](https://github.com/isotropos/isotropos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Revista online de crítica cultural. 
+Lecturas personales de literatura, cómic, cine y teleseries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Manifiesto isotrópico
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Empezamos solos. Cada uno en su casa leía, veía, escuchaba, se formaba. Y luego nos juntamos. Intentaron enseñarnos a leer mejor, ver mejor, escuchar mejor: entender mejor. Ahora es el momento de salirnos de esas normas e intentar conectar con más individualidades. Queremos compartir al mundo nuestras ideas, nuestros problemas, nuestras incomprensiones.
 
-```markdown
-Syntax highlighted code block
+Esto es una responsabilidad física, ética. Es un deseo de subvertir nuestra posición en el universo textual. Siempre lectores, siempre pasivos en el solipsismo de la actividad mental. Ahora escribimos, criticamos, respondemos y salimos al mundo. Esta es la metamorfosis del lector en autor, la conformación de un nuevo orden isotrópico y homogéneo.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## COBE _Cosmic background explorator_
 
-1. Numbered
-2. List
+El Explorador del Fondo Cósmico, también conocido como Explorer 66, fue el primer satélite construido especialmente para estudios de Cosmología. Su objetivo: investigar la radiación de fondo de microondas para ampliar nuestra comprensión del cosmos y su origen.
 
-**Bold** and _Italic_ and `Code` text
+Aquí una selección de datos y textos breves de la actividad más reciente en el universo cultural.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Materia Oscura _terra incognita_
 
-### Jekyll Themes
+Lo desconocido, lo todavía no elaborado, lo inexplicado... Materia oscura es una sección de miscelánea inclasificable. Pequeños artículos, alguna entrevista y quizás un par de textos literarios: ya veremos.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isotropos/isotropos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Anisotropías. Otros mundos posibles
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Desde ISOTROPOS queremos mantener el contacto con otros proyectos creativos y culturales jóvenes, con el fin de crear una constelación de ideas y explorar zonas alejadas de nuestros campos de interés.
