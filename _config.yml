@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
+---
 title: Isotropos
-description: Revista online de crítica cultural. 
-Lecturas personales de literatura, cómic, cine y teleseries.
+timezone: Spain
+collections:
+posts:
+title: Posts
+output: true
+permalink:
+description: Revista online de crítica cultural. Lecturas personales de literatura, cómic, cine y teleseries.
